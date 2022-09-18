@@ -21,8 +21,9 @@ import com.example.dogglers.model.Dog
 /**
  * An object to generate a static list of dogs
  */
-object DataSource {
 
+
+object DataSource {
     val dogs: List<Dog> = listOf(
         Dog(
             R.drawable.tzeitel,
