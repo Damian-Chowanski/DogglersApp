@@ -60,11 +60,11 @@
         "source": "C:\\Users\\Damian\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\frankie.jpg"
     },
     {
-        "merged": "C:\\Users\\Damian\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_grid_list.xml.flat",
-        "source": "C:\\Users\\Damian\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_grid_list.xml"
-    },
-    {
         "merged": "C:\\Users\\Damian\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_grid_list_item.xml.flat",
         "source": "C:\\Users\\Damian\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\grid_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Damian\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_grid_list.xml.flat",
+        "source": "C:\\Users\\Damian\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_grid_list.xml"
     }
 ]

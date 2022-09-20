@@ -62,7 +62,7 @@
             android:layout_marginBottom="8dp"
             android:textAppearance="@style/TextAppearance.MaterialComponents.Body1"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintBaseline_toBottomOf="@id/dog_age"/>
+            app:layout_constraintTop_toBottomOf="@id/dog_age"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
