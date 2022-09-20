@@ -4,17 +4,7 @@
             "outputFile": "com.example.dogglers.app-mergeDebugResources-27:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\9dbc9c8b4fbb4cf5b2afdb5396a6d027\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\7e19cf7fea17176b8c25ce36fff30959\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\37d87c5f2fcc7ef231c582acc9d4436a\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\effbd3098b1b179f79d104d86ef722ea\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

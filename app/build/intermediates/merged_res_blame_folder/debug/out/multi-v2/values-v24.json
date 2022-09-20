@@ -4,7 +4,7 @@
             "outputFile": "com.example.dogglers.app-mergeDebugResources-27:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\ffb82cca875567f145f045a5ad86bba0\\transformed\\material-1.6.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\57f6778c533be6737350e5d315fabbd2\\transformed\\material-1.6.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -23,17 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\7e19cf7fea17176b8c25ce36fff30959\\transformed\\appcompat-1.4.1\\res\\values-v24\\values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\c024d9e197ca8499175776e588c37c02\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\bd3be20887097407317ba83b6c7206cf\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -47,6 +37,16 @@
                         "startOffsets": "1547,1613,1674,1740",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "1608,1669,1735,1802"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Damian\\.gradle\\caches\\transforms-3\\37d87c5f2fcc7ef231c582acc9d4436a\\transformed\\appcompat-1.4.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]
